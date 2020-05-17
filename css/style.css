@@ -1,0 +1,15 @@
+body {
+  font-size: 20px;
+}
+
+body .container {
+  font-size: 10px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  color: #fff;
+}
+
+.block {
+  display: block;
+}
